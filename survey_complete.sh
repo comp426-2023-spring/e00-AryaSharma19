@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=contrarian lobster bicycle soba aced89
+EXAMCODE=https://classroom.github.com/a/icG2oERU
 
 echo ${EXAMCODE}
