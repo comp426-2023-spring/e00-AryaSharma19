@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=contrarian lobster bicycle soba aced89
+EXAMCODE=232332001
 
 echo ${EXAMCODE}
